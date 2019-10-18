@@ -1,5 +1,8 @@
 # Laravel Cheatsheet
 
+### How Tos
+https://github.com/piotr-jura-udemy/laravel-cheat-sheet
+
 ### Artisan
 Credit : https://gist.github.com/hoandang/37a3ea3f1f9d4c4766ee9b59b374aefd
 
