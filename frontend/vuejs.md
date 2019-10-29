@@ -1,12 +1,12 @@
 # Vuejs cheatsheet
 
-## installation
+## Single Page Application (SPA) installation
 ```
 npm install vue 
 npm install -g vue-cli
 
 vue init webpack project-name
-// or for latest vue
+// OR for latest vue
 vue create project-name
 ```
 
