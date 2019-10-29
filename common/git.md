@@ -1,6 +1,10 @@
 # git cheatsheets
 
-
+### REMOTE
+```
+git remote add origin [url]
+git remote -v
+```
 
 ### MAKE CHANGES
 ```

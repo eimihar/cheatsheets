@@ -1,6 +1,12 @@
 # NPM Cheatsheet
 
 ## Command line
+### npx
+serve a static html
+```
+npx serve
+```
+
 ### Package Management
 ```
 npm i
